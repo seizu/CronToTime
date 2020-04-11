@@ -18,7 +18,7 @@ Example: run a shell command 'reboot' every day at 12:45
 ¦  ¦  ¦ ¦ ¦ +------------- some shell command
 ¦  ¦  ¦ ¦ ¦ ¦
 ¦  ¦  ¦ ¦ ¦ ¦
-44 12 * * * reboot
+45 12 * * * reboot
 ```
 (In this UDF the 6th field has no meaning and no influence on the result).
 
